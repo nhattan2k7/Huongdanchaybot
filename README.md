@@ -5,7 +5,7 @@
 + Cần có 1 acc facebook dùng để chạy bot, tránh dùng acc chính nó bay màu khó mà tìm đường về:))
 + Truy cập: https://nodejs.org/dist/v14.19.0/node-v14.19.0-x64.msi để tải node ( dùng bản v14 vì nó ít lỗi .-. )
 + Truy cập: https://www.sublimetext.com/ để tải sublime text ( giúp chỉnh sửa mdl dễ dàng hơn )
-+ Truy cập: https://replit.com/@nhattan2022/Mirai-ntan để tải file bot.
++ Truy cập: https://replit.com/@nhattan2022/Mirai-V2-1 để tải file bot.
 + Truy cập: https://github.com/nhattan2k7/c3c.fbstate để tải c3c-fbstate ( Xin phép anh J-JRT cho em lấy c3c-fbstate từ trang anh ạ )
 + Giải nén file.
 
@@ -88,7 +88,7 @@ Cái này do bạn thôi chứ mình chịu=))
 
 + Truy cập https://www.facebook.com/ đăng nhập tài khoản facebook bạn dùng để chạy bot.
 + Truy cập: https://replit.com để tạo 1 tài khoản replit.
-+ Truy cập: https://replit.com/@nhattan3007/Mirai-V2-1 -> Chọn Fork repl để lấy file.
++ Truy cập: https://replit.com/@nhattan2022/Mirai-V2-1 -> Chọn Fork repl để lấy file.
 + Lấy link **c3c-fbstate** ở trên tải về và giải nén đi :v
 + Tiếp theo tìm chrome://extensions/ hoặc chọn dấu ⋮ ở góc trên bên phải tìm **Tiện ích mở rộng**
 + Bật chế độ nhà phát triển ->  **from.zip/.crx/.user.js** -> Chọn tệp c3c vừa tải ở trên -> Bật nó lên.
